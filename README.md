@@ -1,4 +1,4 @@
-uPortal 5 uses a Bootstrap 3 based skin (called Respondr).  It also uses Less for producing custom skins.
+[uPortal 5](https://github.com/Jasig/uPortal/) and [uPortal-start](https://github.com/Jasig/uPortal-start/) default to a Bootstrap 3 based skin (called Respondr).  The custom skinning process also uses [Less](http://lesscss.org/).
 
 See: http://jasig.github.io/uPortal/implement/frontend/SKINNING_UPORTAL.html
 
