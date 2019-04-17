@@ -2,7 +2,7 @@ uPortal 5 uses a Bootstrap 3 based skin (called Respondr).  It also uses Less fo
 
 See: http://jasig.github.io/uPortal/implement/frontend/SKINNING_UPORTAL.html
 
-I am developing a new skin.  I wanted a quick way to see the effect of editing the Less variables in the browser without having to rebuild and redeploy the uPortal after every change.  So I copied the front page of the uPortal-demo and edited it slightly.
+I am developing a new skin.  I wanted a quick way to see the effect of editing the Less variables in the browser without having to rebuild and redeploy the uPortal after every change.  So I copied the front page of the uPortal-demo into a static file and edited it slightly.
 
 I used [Less.js in the browser](http://lesscss.org/usage/#using-less-in-the-browser).
 This repository also includes Bootstrap source code (I think 3.4.1) which also uses Less.  
